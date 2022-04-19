@@ -2,7 +2,7 @@
 
 # Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 
-Artemis Financial is a financial consulting company that develops individualized financial plans for savings, retirement, investments, and insurance for their patrons. Artemis Financial desired to modernize its operations and, as a crucial part of the success of its custom software, they wanted to implement and apply the most current and effective software security. Artemis Financial has a RESTful web application programming interface (API)
+Artemis Financial is a financial consulting company that develops individualized financial plans for savings, retirement, investments, and insurance for their patrons. Artemis Financial desired to modernize its operations and, as a crucial part of the success of its custom software, they wanted to implement and apply the most current and effective software security. Artemis Financial has a RESTful web application programming interface (API).
 
 # What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 
@@ -10,7 +10,7 @@ I was very adiment in finding security vulnerabilities both manually and using s
 
 # What about the process of working through the vulnerability assessment did you find challenging or helpful?
 
-I found it difficult to spot all of the false positives. I found it helpful that the scanning tool made a easy to read report for you that also had code to suppress false positives
+I found it difficult to spot all of the false positives. I found it helpful that the scanning tool made a easy to read report for you that also had code to suppress false positives.
 
 # How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
 
