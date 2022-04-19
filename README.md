@@ -10,11 +10,11 @@ I was very adiment in finding security vulnerabilities both manually and using s
 
 # What about the process of working through the vulnerability assessment did you find challenging or helpful?
 
-I found it difficult to spot all of the false positives. I found it helpful that the scanning tool made a easy to read report for you that also had code to suppress false positives.
+I found it difficult to spot all of the false positives. I found it helpful that the scanning tool made a easy to read report for you that also had code to suppress false positives. There was also lots of information online and on the OWASP website on how to use the scanning tool. This made it easier to understand and how to work with it.
 
 # How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
 
-I changed the connection from HTTP to HTTP so that data is encrypted and cant be seen or changed during transfer. In the future I will rely on manual inspection and relaible scanning tools to find security vulnerabilities. 
+I changed the connection from HTTP to HTTP so that data is encrypted and cant be seen or changed during transfer. In the future I will rely on manual inspection and reliable scanning tools to find security vulnerabilities. There are many layers that go into increasing security such as input validation, client-server architechture, secure API's, and more. 
 
 # How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 
@@ -22,8 +22,8 @@ I ensured that my code was secure and functional using scanning tools and manual
 
 # What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
 
-OWASP was a helpful tool and so was MAVEN and Spring. These are all tools I might incorporate in the future. 
+OWASP was a helpful tool and so was MAVEN and Spring. These are all tools I might incorporate in the future. They are popular tools that lots of companies use, so it is good to understand how they work. I also now understand how useful third party libraries can be when developing, since it provides ready-made code that you can use. 
 
 # Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
 
-I will showcase that I understand the principles of secure software development and that I have developled an app that is built on secure code. 
+I will showcase that I understand the principles of secure software development and that I have developled an app that is built on secure code. Also I will demonstrate that I know how to using vulnerability scanning tools such as OWASP. 
